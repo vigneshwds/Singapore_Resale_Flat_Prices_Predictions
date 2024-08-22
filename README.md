@@ -1,9 +1,6 @@
 # Singapore_Resale_Flat_Prices_Predictions
 A User-Friendly Tool Using Streamlit and RandomForest algorithm to predicting the Resale Flat prices in Singapore.
 
-# Singapore_Resale_Flat_Prices_Predictions
-A User-Friendly Tool Using Streamlit and RandomForest algorithm to predicting the Resale Flat prices in Singapore.
-
 ## Project Overview
 The objective of this project is to develop a machine learning model and deploy it as a user-friendly web application that predicts the resale prices of flats in Singapore. This predictive model is based on historical data of resale flat transactions and is designed to assist both potential buyers and sellers in estimating the resale value of a flat.
 
