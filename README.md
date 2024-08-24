@@ -1,4 +1,7 @@
 # Singapore_Resale_Flat_Prices_Predictions
+
+![download](https://github.com/user-attachments/assets/54fcbc95-9874-42f4-9b44-de8ac8ffcc53)
+
 A User-Friendly Tool Using Streamlit and RandomForest algorithm to predicting the Resale Flat prices in Singapore.
 
 ## Project Overview
