@@ -12,7 +12,7 @@ import seaborn as sns
 
 
 def file():
-    data=pd.read_csv('C:/Capstone files/Singapore/file.csv')
+    data=pd.read_csv('file1.csv')
     return data
 
 
