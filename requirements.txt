@@ -6,4 +6,3 @@ scipy==1.14.1
 seaborn==0.13.2
 streamlit==1.37.1
 streamlit_option_menu==0.3.13
-~treamlit==1.35.0
